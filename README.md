@@ -218,7 +218,7 @@ Price distributions vary widely across cities, with some showing higher variabil
 
 A detailed data dictionary is available in the project files:
 
-[data_dictionary.xlsx](docs/data_dictionary.xlsx)
+📄 [data_dictionary.xlsx](docs/data_dictionary.xlsx)
 
 ---
 
