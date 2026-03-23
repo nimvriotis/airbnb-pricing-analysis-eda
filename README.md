@@ -20,7 +20,7 @@ Additionally, significant price differences exist across cities, suggesting that
 
 You can view the full analysis without running the code:
 
-📄 [Open HTML version](notebooks/airbnb_pricing_eda.html)
+📄 [Open HTML version](output/airbnb_pricing_eda.html)
 
 ---
 
